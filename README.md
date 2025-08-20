@@ -1,7 +1,7 @@
 # candidate_fires
-Code to accompany manuscript "Leveraging additional VIIRS information to improve fire tracking and emissions estimation in the Western US" 2024
+Code to accompany manuscript "Leveraging additional VIIRS information to improve wildfire tracking in the western US", submitted to Remote Sensing of Environment, August 2025
 
-WUS_Jun-Nov2020_dets_SNPP_final.csv - output dataset of Suomi-NPP VIIRS known active fire detections + additional candidate detections (denoted as "confidence"="x" and fire_mask < 7) for the 20 largest Western US fires in 2020. 
+csv - output dataset of Suomi-NPP VIIRS known active fire detections + additional candidate detections (denoted as "confidence"="x" and fire_mask < 7) for the 20 largest Western US fires in 2020. 
 
 Input Datasets:
  - VIIRS via LAADS DAAC https://ladsweb.modaps.eosdis.nasa.gov/search/
