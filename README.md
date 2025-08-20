@@ -4,7 +4,7 @@ Code to accompany manuscript "Leveraging additional VIIRS information to improve
 
 Input Datasets:
  - VIIRS via LAADS DAAC https://ladsweb.modaps.eosdis.nasa.gov/search/
- - NLCD land cover https://www.mrlc.gov/data/nlcd-2019-land-cover-conus
+ - NLCD land cover [https://www.mrlc.gov/data/nlcd-2019-land-cover-conus](https://www.mrlc.gov/data)
  - MASTER 2019 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1941
  - NIFC https://ftp.wildfire.gov/
  - FEDS fire perimeters https://doi.org/10.6084/m9.figshare.c.5601537.v1 ; API: [https://nasa-impact.github.io/veda-docs/notebooks/tutorials/mapping-fires.html](https://docs.openveda.cloud/user-guide/notebooks/tutorials/mapping-fires.html)
