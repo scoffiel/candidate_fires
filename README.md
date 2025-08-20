@@ -7,7 +7,7 @@ Input Datasets:
  - NLCD land cover https://www.mrlc.gov/data/nlcd-2019-land-cover-conus
  - MASTER 2019 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1941
  - NIFC https://ftp.wildfire.gov/
- - FEDS fire perimeters https://doi.org/10.6084/m9.figshare.c.5601537.v1 ; API: https://nasa-impact.github.io/veda-docs/notebooks/tutorials/mapping-fires.html
+ - FEDS fire perimeters https://doi.org/10.6084/m9.figshare.c.5601537.v1 ; API: [https://nasa-impact.github.io/veda-docs/notebooks/tutorials/mapping-fires.html](https://docs.openveda.cloud/user-guide/notebooks/tutorials/mapping-fires.html)
 
    
 Output dataset: File of 874k known and candidate fire detections from two VIIRS sensors. Candidates denoted as "confidence"="x" and fire_mask < 7 for the 95 largest Western US fires in 2020. Links to geoparquet and csv files (can host on Zenodo or other repository for final pub). 
