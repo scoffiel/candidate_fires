@@ -1,6 +1,5 @@
-# candidate_fires
-Code to accompany manuscript "Leveraging additional VIIRS information to improve wildfire tracking in the western US", submitted to Remote Sensing of Environment, August 2025
-
+# Candidate Fires data and code
+To accompany manuscript "Leveraging additional VIIRS information to improve wildfire tracking in the western US", submitted to Remote Sensing of Environment, August 2025
 
 Input Datasets:
  - VIIRS via LAADS DAAC https://ladsweb.modaps.eosdis.nasa.gov/search/
